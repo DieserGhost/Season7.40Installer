@@ -13,4 +13,8 @@
     <Content Include="ico\app-icon.ico" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="manifest\" />
+  </ItemGroup>
+
 </Project>

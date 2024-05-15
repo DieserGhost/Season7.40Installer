@@ -1,0 +1,3211 @@
+{
+  "Name": "7.40",
+  "Chunks": [
+    {
+      "ChunksIds": [
+        8
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-debug-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        11
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-interlocked-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        2
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-processenvironment-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        14
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-datetime-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        3
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-handle-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        12
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-heap-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        10
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-libraryloader-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        6
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-namedpipe-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        16
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-memory-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        7
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-0.dll",
+      "FileSize": 11152
+    },
+    {
+      "ChunksIds": [
+        13
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-localization-l1-2-0.dll",
+      "FileSize": 11664
+    },
+    {
+      "ChunksIds": [
+        15
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-file-l1-1-0.dll",
+      "FileSize": 12688
+    },
+    {
+      "ChunksIds": [
+        5
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-console-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        1
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-file-l1-2-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        9
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-errorhandling-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        4
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-file-l2-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        17
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-convert-l1-1-0.dll",
+      "FileSize": 13200
+    },
+    {
+      "ChunksIds": [
+        18
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-synch-l1-1-0.dll",
+      "FileSize": 11152
+    },
+    {
+      "ChunksIds": [
+        19
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-math-l1-1-0.dll",
+      "FileSize": 18320
+    },
+    {
+      "ChunksIds": [
+        20
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-util-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        21
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-1.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        23
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-sysinfo-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        22
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-string-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        25
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-synch-l1-2-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        24
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-profile-l1-1-0.dll",
+      "FileSize": 8592
+    },
+    {
+      "ChunksIds": [
+        26
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-conio-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        28
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-timezone-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        30
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-filesystem-l1-1-0.dll",
+      "FileSize": 11152
+    },
+    {
+      "ChunksIds": [
+        32
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-environment-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        29
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        27
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-heap-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        31
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-locale-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        33
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-time-l1-1-0.dll",
+      "FileSize": 11664
+    },
+    {
+      "ChunksIds": [
+        36
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-process-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        34
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-private-l1-1-0.dll",
+      "FileSize": 61328
+    },
+    {
+      "ChunksIds": [
+        37
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-stdio-l1-1-0.dll",
+      "FileSize": 15248
+    },
+    {
+      "ChunksIds": [
+        38
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-string-l1-1-0.dll",
+      "FileSize": 15248
+    },
+    {
+      "ChunksIds": [
+        39
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-runtime-l1-1-0.dll",
+      "FileSize": 13712
+    },
+    {
+      "ChunksIds": [
+        35
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-multibyte-l1-1-0.dll",
+      "FileSize": 17296
+    },
+    {
+      "ChunksIds": [
+        40
+      ],
+      "File": "Engine\\Binaries\\Win64\\api-ms-win-crt-utility-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        41
+      ],
+      "File": "Engine\\Binaries\\Win64\\msvcp140_1.dll",
+      "FileSize": 21904
+    },
+    {
+      "ChunksIds": [
+        42
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-console-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        45
+      ],
+      "File": "Engine\\Binaries\\Win64\\X3DAudio1_7.dll",
+      "FileSize": 24976
+    },
+    {
+      "ChunksIds": [
+        47
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-datetime-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        43
+      ],
+      "File": "Engine\\Binaries\\Win64\\vcruntime140.dll",
+      "FileSize": 79248
+    },
+    {
+      "ChunksIds": [
+        50
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-errorhandling-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        49
+      ],
+      "File": "Engine\\Binaries\\Win64\\XAPOFX1_5.dll",
+      "FileSize": 77712
+    },
+    {
+      "ChunksIds": [
+        51
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-file-l1-1-0.dll",
+      "FileSize": 12688
+    },
+    {
+      "ChunksIds": [
+        52
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-debug-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        48
+      ],
+      "File": "Engine\\Binaries\\Win64\\vccorlib140.dll",
+      "FileSize": 376720
+    },
+    {
+      "ChunksIds": [
+        55
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-handle-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        44
+      ],
+      "File": "Engine\\Binaries\\Win64\\concrt140.dll",
+      "FileSize": 333200
+    },
+    {
+      "ChunksIds": [
+        57
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-file-l2-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        46
+      ],
+      "File": "Engine\\Binaries\\Win64\\msvcp140.dll",
+      "FileSize": 666000
+    },
+    {
+      "ChunksIds": [
+        59
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-file-l1-2-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        58
+      ],
+      "File": "Engine\\Binaries\\Win64\\xinput1_3.dll",
+      "FileSize": 103824
+    },
+    {
+      "ChunksIds": [
+        63
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-localization-l1-2-0.dll",
+      "FileSize": 11664
+    },
+    {
+      "ChunksIds": [
+        61
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-interlocked-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        60
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-libraryloader-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        62
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-heap-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        64
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-namedpipe-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        53
+      ],
+      "File": "Engine\\Binaries\\Win64\\XAudio2_7.dll",
+      "FileSize": 518544
+    },
+    {
+      "ChunksIds": [
+        66
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-memory-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        65
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-1.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        67
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-processenvironment-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        68
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-0.dll",
+      "FileSize": 11152
+    },
+    {
+      "ChunksIds": [
+        69
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-string-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        70
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-synch-l1-2-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        71
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-sysinfo-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        72
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-synch-l1-1-0.dll",
+      "FileSize": 11152
+    },
+    {
+      "ChunksIds": [
+        73
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-util-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        54
+      ],
+      "File": "Engine\\Binaries\\Win64\\ucrtbase.dll",
+      "FileSize": 973200
+    },
+    {
+      "ChunksIds": [
+        74
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-timezone-l1-1-0.dll",
+      "FileSize": 9104
+    },
+    {
+      "ChunksIds": [
+        75
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-profile-l1-1-0.dll",
+      "FileSize": 8592
+    },
+    {
+      "ChunksIds": [
+        78
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        77
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-convert-l1-1-0.dll",
+      "FileSize": 13200
+    },
+    {
+      "ChunksIds": [
+        79
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-environment-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        76
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-conio-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        81
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-locale-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        82
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-filesystem-l1-1-0.dll",
+      "FileSize": 11152
+    },
+    {
+      "ChunksIds": [
+        80
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-heap-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        83
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-math-l1-1-0.dll",
+      "FileSize": 18320
+    },
+    {
+      "ChunksIds": [
+        84
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-process-l1-1-0.dll",
+      "FileSize": 10128
+    },
+    {
+      "ChunksIds": [
+        86
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-utility-l1-1-0.dll",
+      "FileSize": 9616
+    },
+    {
+      "ChunksIds": [
+        85
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-multibyte-l1-1-0.dll",
+      "FileSize": 17296
+    },
+    {
+      "ChunksIds": [
+        87
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-stdio-l1-1-0.dll",
+      "FileSize": 15248
+    },
+    {
+      "ChunksIds": [
+        88
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-runtime-l1-1-0.dll",
+      "FileSize": 13712
+    },
+    {
+      "ChunksIds": [
+        89
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-private-l1-1-0.dll",
+      "FileSize": 61328
+    },
+    {
+      "ChunksIds": [
+        90
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-time-l1-1-0.dll",
+      "FileSize": 11664
+    },
+    {
+      "ChunksIds": [
+        92
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-string-l1-1-0.dll",
+      "FileSize": 15248
+    },
+    {
+      "ChunksIds": [
+        94
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\msvcp140_1.dll",
+      "FileSize": 21904
+    },
+    {
+      "ChunksIds": [
+        91
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\concrt140.dll",
+      "FileSize": 333200
+    },
+    {
+      "ChunksIds": [
+        97
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\X3DAudio1_7.dll",
+      "FileSize": 24976
+    },
+    {
+      "ChunksIds": [
+        100
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\XAPOFX1_5.dll",
+      "FileSize": 77712
+    },
+    {
+      "ChunksIds": [
+        99
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\vcruntime140.dll",
+      "FileSize": 79248
+    },
+    {
+      "ChunksIds": [
+        98
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\vccorlib140.dll",
+      "FileSize": 376720
+    },
+    {
+      "ChunksIds": [
+        103
+      ],
+      "File": "FortniteGame\\Content\\Legal\\FortniteThirdPartySoftware.txt",
+      "FileSize": 37055
+    },
+    {
+      "ChunksIds": [
+        96
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\msvcp140.dll",
+      "FileSize": 666000
+    },
+    {
+      "ChunksIds": [
+        108
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\xinput1_3.dll",
+      "FileSize": 103824
+    },
+    {
+      "ChunksIds": [
+        56
+      ],
+      "File": "Engine\\Binaries\\Win64\\UnrealCEFSubProcess.exe",
+      "FileSize": 3699600
+    },
+    {
+      "ChunksIds": [
+        105
+      ],
+      "File": "FortniteGame\\Content\\Movies\\FireMode_DedicatedButton.mp4",
+      "FileSize": 1043807
+    },
+    {
+      "ChunksIds": [
+        104
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\ucrtbase.dll",
+      "FileSize": 973200
+    },
+    {
+      "ChunksIds": [
+        112
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Onboarding_Flow_Appended_Intro_Movie_01_Loc.srt",
+      "FileSize": 2743
+    },
+    {
+      "ChunksIds": [
+        95
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\dbghelp.dll",
+      "FileSize": 1370000
+    },
+    {
+      "ChunksIds": [
+        102
+      ],
+      "File": "FortniteGame\\Content\\Movies\\FireMode_AutoFire.mp4",
+      "FileSize": 1466712
+    },
+    {
+      "ChunksIds": [],
+      "File": "FortniteGame\\Content\\PackagedReplays\\placeholder.txt",
+      "FileSize": 0
+    },
+    {
+      "ChunksIds": [
+        106
+      ],
+      "File": "FortniteGame\\Content\\Movies\\FireMode_TapToFire.mp4",
+      "FileSize": 1050344
+    },
+    {
+      "ChunksIds": [
+        107
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\XAudio2_7.dll",
+      "FileSize": 518544
+    },
+    {
+      "ChunksIds": [
+        110
+      ],
+      "File": "FortniteGame\\Content\\Movies\\HombaseReturn_OutpostIntro_en.mp4",
+      "FileSize": 4532714
+    },
+    {
+      "ChunksIds": [
+        118
+      ],
+      "File": "FortniteGame\\Content\\Movies\\SatelliteConnection_en.mp4",
+      "FileSize": 1601970
+    },
+    {
+      "ChunksIds": [
+        119
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0-WindowsClient.sig",
+      "FileSize": 299856
+    },
+    {
+      "ChunksIds": [
+        121
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s1-WindowsClient.sig",
+      "FileSize": 264656
+    },
+    {
+      "ChunksIds": [
+        124
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s2-WindowsClient.sig",
+      "FileSize": 262744
+    },
+    {
+      "ChunksIds": [
+        117
+      ],
+      "File": "FortniteGame\\Content\\Movies\\RPCollection.mp4",
+      "FileSize": 1767774
+    },
+    {
+      "ChunksIds": [
+        120
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping_BE.exe",
+      "FileSize": 753552
+    },
+    {
+      "ChunksIds": [
+        113
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Onboarding_Appended_Intro_VO.mp4",
+      "FileSize": 8515853
+    },
+    {
+      "ChunksIds": [
+        125
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\FortniteLauncher.exe",
+      "FileSize": 299920
+    },
+    {
+      "ChunksIds": [
+        127
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s3-WindowsClient.sig",
+      "FileSize": 262740
+    },
+    {
+      "ChunksIds": [
+        130
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s5-WindowsClient.sig",
+      "FileSize": 264604
+    },
+    {
+      "ChunksIds": [
+        129
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s4-WindowsClient.sig",
+      "FileSize": 263688
+    },
+    {
+      "ChunksIds": [
+        126
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping_EAC.exe",
+      "FileSize": 1086864
+    },
+    {
+      "ChunksIds": [
+        101
+      ],
+      "File": "FortniteGame\\Content\\Movies\\FireMode_3DTouch.mp4",
+      "FileSize": 4447022
+    },
+    {
+      "ChunksIds": [
+        133
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s6-WindowsClient.sig",
+      "FileSize": 267488
+    },
+    {
+      "ChunksIds": [
+        134
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s7-WindowsClient.sig",
+      "FileSize": 171160
+    },
+    {
+      "ChunksIds": [
+        138
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1-WindowsClient.sig",
+      "FileSize": 263472
+    },
+    {
+      "ChunksIds": [
+        139
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1000-WindowsClient.sig",
+      "FileSize": 4664
+    },
+    {
+      "ChunksIds": [
+        93
+      ],
+      "File": "Engine\\Binaries\\Win64\\CrashReportClient.exe",
+      "FileSize": 18570640
+    },
+    {
+      "ChunksIds": [
+        141
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1001-WindowsClient.sig",
+      "FileSize": 8300
+    },
+    {
+      "ChunksIds": [
+        142
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1002-WindowsClient.pak",
+      "FileSize": 33535266
+    },
+    {
+      "ChunksIds": [
+        150
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1002-WindowsClient.sig",
+      "FileSize": 2116
+    },
+    {
+      "ChunksIds": [
+        114
+      ],
+      "File": "FortniteGame\\Content\\Movies\\SatelliteConnection.mp4",
+      "FileSize": 47505173
+    },
+    {
+      "ChunksIds": [
+        152
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1003-WindowsClient.sig",
+      "FileSize": 6212
+    },
+    {
+      "ChunksIds": [
+        153
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1004-WindowsClient.pak",
+      "FileSize": 10292370
+    },
+    {
+      "ChunksIds": [
+        157
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1004-WindowsClient.sig",
+      "FileSize": 700
+    },
+    {
+      "ChunksIds": [
+        137,
+        163
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1000-WindowsClient.pak",
+      "FileSize": 75251042
+    },
+    {
+      "ChunksIds": [
+        164
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1_s1-WindowsClient.sig",
+      "FileSize": 129592
+    },
+    {
+      "ChunksIds": [
+        109,
+        161
+      ],
+      "File": "FortniteGame\\Content\\Movies\\HombaseReturn_OutpostIntro.mp4",
+      "FileSize": 129156098
+    },
+    {
+      "ChunksIds": [
+        179
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk2-WindowsClient.sig",
+      "FileSize": 21344
+    },
+    {
+      "ChunksIds": [
+        144,
+        171
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping.exe",
+      "FileSize": 106776464
+    },
+    {
+      "ChunksIds": [
+        182
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk5-WindowsClient.sig",
+      "FileSize": 20096
+    },
+    {
+      "ChunksIds": [
+        151,
+        174
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1003-WindowsClient.pak",
+      "FileSize": 100652866
+    },
+    {
+      "ChunksIds": [
+        187
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk7-WindowsClient.sig",
+      "FileSize": 21592
+    },
+    {
+      "ChunksIds": [
+        140,
+        162,
+        189
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1001-WindowsClient.pak",
+      "FileSize": 134842866
+    },
+    {
+      "ChunksIds": [
+        191
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk8-WindowsClient.sig",
+      "FileSize": 21400
+    },
+    {
+      "ChunksIds": [
+        111,
+        160,
+        185,
+        208
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Onboarding_Appended_Intro.mp4",
+      "FileSize": 248602130
+    },
+    {
+      "ChunksIds": [
+        220
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk9-WindowsClient.sig",
+      "FileSize": 6060
+    },
+    {
+      "ChunksIds": [
+        221
+      ],
+      "File": "FortniteGame\\Content\\Splash\\Splash.bmp",
+      "FileSize": 1417016
+    },
+    {
+      "ChunksIds": [
+        222
+      ],
+      "File": "FortniteGame\\PersistentDownloadDir\\CMS\\CacheAccess.json",
+      "FileSize": 10
+    },
+    {
+      "ChunksIds": [
+        223
+      ],
+      "File": "FortniteGame\\PersistentDownloadDir\\EMS\\DefaultEngine.ini",
+      "FileSize": 317
+    },
+    {
+      "ChunksIds": [
+        224
+      ],
+      "File": "FortniteGame\\PersistentDownloadDir\\EMS\\DefaultGame.ini",
+      "FileSize": 3728
+    },
+    {
+      "ChunksIds": [
+        225
+      ],
+      "File": "FortniteGame\\PersistentDownloadDir\\EMS\\DefaultInput.ini",
+      "FileSize": 65
+    },
+    {
+      "ChunksIds": [
+        226
+      ],
+      "File": "FortniteGame\\PersistentDownloadDir\\EMS\\DefaultRuntimeOptions.ini",
+      "FileSize": 730
+    },
+    {
+      "ChunksIds": [
+        192,
+        213
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk9-WindowsClient.pak",
+      "FileSize": 98151478
+    },
+    {
+      "ChunksIds": [
+        228
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\BattlEye\\BELauncher.ini",
+      "FileSize": 128
+    },
+    {
+      "ChunksIds": [
+        232
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\BattlEye\\BEClient_x64.dll",
+      "FileSize": 4276232
+    },
+    {
+      "ChunksIds": [
+        235
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\BattlEye\\EULA.txt",
+      "FileSize": 2758
+    },
+    {
+      "ChunksIds": [
+        236
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\BattlEye\\Install_BattlEye.bat",
+      "FileSize": 79
+    },
+    {
+      "ChunksIds": [
+        237
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\BattlEye\\Uninstall_BattlEye.bat",
+      "FileSize": 79
+    },
+    {
+      "ChunksIds": [
+        238
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\EasyAntiCheat_Setup.exe",
+      "FileSize": 802432
+    },
+    {
+      "ChunksIds": [
+        230
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\BattlEye\\BEService_x64.exe",
+      "FileSize": 8403672
+    },
+    {
+      "ChunksIds": [
+        239
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\EasyAntiCheat_x64.dll",
+      "FileSize": 792192
+    },
+    {
+      "ChunksIds": [
+        240
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.de_DE.srt",
+      "FileSize": 137
+    },
+    {
+      "ChunksIds": [
+        241
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.en_EN.srt",
+      "FileSize": 133
+    },
+    {
+      "ChunksIds": [
+        243
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.es_ES.srt",
+      "FileSize": 133
+    },
+    {
+      "ChunksIds": [
+        244
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.es_MX.srt",
+      "FileSize": 133
+    },
+    {
+      "ChunksIds": [
+        245
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.fr_FR.srt",
+      "FileSize": 131
+    },
+    {
+      "ChunksIds": [
+        246
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.it_IT.srt",
+      "FileSize": 132
+    },
+    {
+      "ChunksIds": [
+        247
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.ja_JP.srt",
+      "FileSize": 127
+    },
+    {
+      "ChunksIds": [
+        242
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\EasyAntiCheat_x86.dll",
+      "FileSize": 676992
+    },
+    {
+      "ChunksIds": [
+        248
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.ko_KR.srt",
+      "FileSize": 137
+    },
+    {
+      "ChunksIds": [
+        249
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.pl_PL.srt",
+      "FileSize": 134
+    },
+    {
+      "ChunksIds": [
+        250
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.pt_BR.srt",
+      "FileSize": 131
+    },
+    {
+      "ChunksIds": [
+        251
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.tr_TR.srt",
+      "FileSize": 131
+    },
+    {
+      "ChunksIds": [
+        252
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.ru_RU.srt",
+      "FileSize": 159
+    },
+    {
+      "ChunksIds": [
+        253
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.zh_CN.srt",
+      "FileSize": 124
+    },
+    {
+      "ChunksIds": [
+        254
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.zh_TW.srt",
+      "FileSize": 124
+    },
+    {
+      "ChunksIds": [
+        255
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN.it_IT.srt",
+      "FileSize": 203
+    },
+    {
+      "ChunksIds": [
+        257
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN.ptBR.srt",
+      "FileSize": 199
+    },
+    {
+      "ChunksIds": [
+        258
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN.srt",
+      "FileSize": 198
+    },
+    {
+      "ChunksIds": [
+        259
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN_DE.srt",
+      "FileSize": 214
+    },
+    {
+      "ChunksIds": [
+        260
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN_JA.srt",
+      "FileSize": 255
+    },
+    {
+      "ChunksIds": [
+        261
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN_pl-PL.srt",
+      "FileSize": 214
+    },
+    {
+      "ChunksIds": [
+        262
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.esES.srt",
+      "FileSize": 213
+    },
+    {
+      "ChunksIds": [
+        263
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.esMX.srt",
+      "FileSize": 212
+    },
+    {
+      "ChunksIds": [
+        264
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.ru_RU.srt",
+      "FileSize": 285
+    },
+    {
+      "ChunksIds": [
+        265
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.tr.srt",
+      "FileSize": 180
+    },
+    {
+      "ChunksIds": [
+        266
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.zh_CN.srt",
+      "FileSize": 176
+    },
+    {
+      "ChunksIds": [
+        267
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.zh_TW.srt",
+      "FileSize": 176
+    },
+    {
+      "ChunksIds": [
+        268
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT._kor.srt",
+      "FileSize": 217
+    },
+    {
+      "ChunksIds": [
+        269
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT_FR.srt",
+      "FileSize": 223
+    },
+    {
+      "ChunksIds": [
+        256
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\Blockbuster_2018.mp4",
+      "FileSize": 12561443
+    },
+    {
+      "ChunksIds": [
+        277
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\Into_The_Storm_2018.mp4",
+      "FileSize": 15765104
+    },
+    {
+      "ChunksIds": [
+        280
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\Spring2018.mp4",
+      "FileSize": 12856063
+    },
+    {
+      "ChunksIds": [
+        270
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\HE2017.mp4",
+      "FileSize": 53254626
+    },
+    {
+      "ChunksIds": [
+        287
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Events\\Winter2018.mp4",
+      "FileSize": 14036841
+    },
+    {
+      "ChunksIds": [
+        289
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T01.mp4",
+      "FileSize": 7171135
+    },
+    {
+      "ChunksIds": [
+        291
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T02.mp4",
+      "FileSize": 5339010
+    },
+    {
+      "ChunksIds": [
+        292
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T03.mp4",
+      "FileSize": 5958291
+    },
+    {
+      "ChunksIds": [
+        294
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T04.mp4",
+      "FileSize": 11461311
+    },
+    {
+      "ChunksIds": [
+        296
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Airstrike_T01.mp4",
+      "FileSize": 11179572
+    },
+    {
+      "ChunksIds": [
+        300
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Airstrike_T02.mp4",
+      "FileSize": 10951330
+    },
+    {
+      "ChunksIds": [
+        301
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Airstrike_T03.mp4",
+      "FileSize": 13270805
+    },
+    {
+      "ChunksIds": [
+        306
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Banner_T01.mp4",
+      "FileSize": 7724457
+    },
+    {
+      "ChunksIds": [
+        304
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\AirStrike_T04.mp4",
+      "FileSize": 14349186
+    },
+    {
+      "ChunksIds": [
+        309
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Banner_T02.mp4",
+      "FileSize": 4971730
+    },
+    {
+      "ChunksIds": [
+        312
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Mine_T01.mp4",
+      "FileSize": 6993448
+    },
+    {
+      "ChunksIds": [
+        311
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Banner_T03.mp4",
+      "FileSize": 8539965
+    },
+    {
+      "ChunksIds": [
+        316
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Mine_T02.mp4",
+      "FileSize": 6331972
+    },
+    {
+      "ChunksIds": [
+        165,
+        184,
+        207,
+        234,
+        290,
+        315
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk2-WindowsClient.pak",
+      "FileSize": 348522489
+    },
+    {
+      "ChunksIds": [
+        317
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Mine_T03.mp4",
+      "FileSize": 14648602
+    },
+    {
+      "ChunksIds": [
+        318
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\SlowMo_T01.mp4",
+      "FileSize": 17294278
+    },
+    {
+      "ChunksIds": [
+        322
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\SlowMo_T02.mp4",
+      "FileSize": 9254323
+    },
+    {
+      "ChunksIds": [
+        324
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\SlowMo_T03.mp4",
+      "FileSize": 11174471
+    },
+    {
+      "ChunksIds": [
+        329
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T01.mp4",
+      "FileSize": 5023777
+    },
+    {
+      "ChunksIds": [
+        181,
+        201,
+        219,
+        281,
+        305
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk5-WindowsClient.pak",
+      "FileSize": 328089479
+    },
+    {
+      "ChunksIds": [
+        328
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\SupplyDrop_T01.mp4",
+      "FileSize": 10306333
+    },
+    {
+      "ChunksIds": [
+        330
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T02.mp4",
+      "FileSize": 6171763
+    },
+    {
+      "ChunksIds": [
+        331
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T03.mp4",
+      "FileSize": 6233445
+    },
+    {
+      "ChunksIds": [
+        332
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T04.mp4",
+      "FileSize": 8428440
+    },
+    {
+      "ChunksIds": [
+        336
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Turret_T03.mp4",
+      "FileSize": 4635829
+    },
+    {
+      "ChunksIds": [
+        335
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Turret_T01.mp4",
+      "FileSize": 7106795
+    },
+    {
+      "ChunksIds": [
+        334
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\Turret_T02.mp4",
+      "FileSize": 9274729
+    },
+    {
+      "ChunksIds": [
+        338
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Gadgets\\WeakpointVision.mp4",
+      "FileSize": 16594008
+    },
+    {
+      "ChunksIds": [
+        339
+      ],
+      "File": "FortniteGame\\Content\\Movies\\OnBoarding\\Tutorial_Build.mp4",
+      "FileSize": 20124104
+    },
+    {
+      "ChunksIds": [
+        341
+      ],
+      "File": "FortniteGame\\Content\\Movies\\OnBoarding\\Tutorial_BuildForts.mp4",
+      "FileSize": 21492626
+    },
+    {
+      "ChunksIds": [
+        349
+      ],
+      "File": "FortniteGame\\Content\\Movies\\Promotions\\18_1023_RiR_Reels_2397_2CBR_TESTVERSION_v2.mp4",
+      "FileSize": 1062674
+    },
+    {
+      "ChunksIds": [
+        350
+      ],
+      "File": "FortniteGame\\Content\\Movies\\SRT\\FNBR_IntoTheStorm_SRT.en.srt",
+      "FileSize": 127
+    },
+    {
+      "ChunksIds": [
+        340
+      ],
+      "File": "FortniteGame\\Content\\Movies\\OnBoarding\\Tutorial_Crafting.mp4",
+      "FileSize": 24417438
+    },
+    {
+      "ChunksIds": [
+        352
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\DeliverGoods_v1.mp4",
+      "FileSize": 1888461
+    },
+    {
+      "ChunksIds": [
+        183,
+        202,
+        227,
+        285,
+        313,
+        342
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk7-WindowsClient.pak",
+      "FileSize": 352604802
+    },
+    {
+      "ChunksIds": [
+        188,
+        206,
+        231,
+        288,
+        314,
+        345
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk8-WindowsClient.pak",
+      "FileSize": 349468942
+    },
+    {
+      "ChunksIds": [
+        343
+      ],
+      "File": "FortniteGame\\Content\\Movies\\OnBoarding\\Tutorial_Editing.mp4",
+      "FileSize": 14607742
+    },
+    {
+      "ChunksIds": [
+        357
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\mission_failure_generic.mp4",
+      "FileSize": 4450133
+    },
+    {
+      "ChunksIds": [
+        353
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\LaunchBalloon.mp4",
+      "FileSize": 10518428
+    },
+    {
+      "ChunksIds": [
+        363
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\PowerReactor_v1.mp4",
+      "FileSize": 1888461
+    },
+    {
+      "ChunksIds": [
+        360
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\mission_success_generic.mp4",
+      "FileSize": 6778500
+    },
+    {
+      "ChunksIds": [
+        346
+      ],
+      "File": "FortniteGame\\Content\\Movies\\OnBoarding\\Tutorial_Harvesting.mp4",
+      "FileSize": 20404109
+    },
+    {
+      "ChunksIds": [
+        361
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\OutpostVictory.mp4",
+      "FileSize": 8547386
+    },
+    {
+      "ChunksIds": [
+        368
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\chrome_elf.dll",
+      "FileSize": 553872
+    },
+    {
+      "ChunksIds": [
+        367
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_43.dll",
+      "FileSize": 2106256
+    },
+    {
+      "ChunksIds": [
+        356
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\LaunchRocket_v1.mp4",
+      "FileSize": 16640632
+    },
+    {
+      "ChunksIds": [
+        364
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\RetrieveData_v1.mp4",
+      "FileSize": 8152144
+    },
+    {
+      "ChunksIds": [
+        371
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libEGL.dll",
+      "FileSize": 98704
+    },
+    {
+      "ChunksIds": [
+        369
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_47.dll",
+      "FileSize": 4479376
+    },
+    {
+      "ChunksIds": [
+        365
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\SeverTether_v1.mp4",
+      "FileSize": 10458397
+    },
+    {
+      "ChunksIds": [
+        374
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\natives_blob.bin",
+      "FileSize": 246209
+    },
+    {
+      "ChunksIds": [
+        373
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\snapshot_blob.bin",
+      "FileSize": 1562112
+    },
+    {
+      "ChunksIds": [
+        372
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libGLESv2.dll",
+      "FileSize": 3928464
+    },
+    {
+      "ChunksIds": [
+        376
+      ],
+      "File": "FortniteGame\\Binaries\\ThirdParty\\Discord\\Win64\\discord-rpc.dll",
+      "FileSize": 394128
+    },
+    {
+      "ChunksIds": [
+        377
+      ],
+      "File": "FortniteGame\\Binaries\\ThirdParty\\Oodle\\Win64\\oo2core_5_win64.dll",
+      "FileSize": 941456
+    },
+    {
+      "ChunksIds": [
+        370
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\icudtl.dat",
+      "FileSize": 10130560
+    },
+    {
+      "ChunksIds": [
+        355
+      ],
+      "File": "FortniteGame\\Content\\Movies\\VictoryMovies\\LaunchRocket_v2.mp4",
+      "FileSize": 27475975
+    },
+    {
+      "ChunksIds": [
+        380
+      ],
+      "File": "FortniteGame\\Binaries\\ThirdParty\\SpeechGraphics\\Win64\\SG_Com.dll",
+      "FileSize": 3122064
+    },
+    {
+      "ChunksIds": [
+        381
+      ],
+      "File": "FortniteGame\\Binaries\\ThirdParty\\Vivox\\Win64\\vivoxplatform.dll",
+      "FileSize": 179600
+    },
+    {
+      "ChunksIds": [
+        382
+      ],
+      "File": "FortniteGame\\Binaries\\ThirdParty\\Vivox\\Win64\\ortp_x64.dll",
+      "FileSize": 226192
+    },
+    {
+      "ChunksIds": [
+        379
+      ],
+      "File": "FortniteGame\\Binaries\\ThirdParty\\Nvidia\\Win64\\GfeSDK.dll",
+      "FileSize": 4230032
+    },
+    {
+      "ChunksIds": [
+        384
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\BattlEye\\Privacy\\en-US.txt",
+      "FileSize": 1323
+    },
+    {
+      "ChunksIds": [
+        385
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Certificates\\game.cer",
+      "FileSize": 1337
+    },
+    {
+      "ChunksIds": [
+        387
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Launcher\\Settings.json",
+      "FileSize": 355
+    },
+    {
+      "ChunksIds": [
+        389
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Licenses\\Apache-2.0.txt",
+      "FileSize": 11560
+    },
+    {
+      "ChunksIds": [
+        390
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Licenses\\CCO-1.0.txt",
+      "FileSize": 997
+    },
+    {
+      "ChunksIds": [
+        388
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Launcher\\SplashScreen.png",
+      "FileSize": 256460
+    },
+    {
+      "ChunksIds": [
+        391
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Licenses\\LGPL-2.1.txt",
+      "FileSize": 27032
+    },
+    {
+      "ChunksIds": [
+        392
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Licenses\\MIT.txt",
+      "FileSize": 1093
+    },
+    {
+      "ChunksIds": [
+        393
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\ar_sa.cfg",
+      "FileSize": 7481
+    },
+    {
+      "ChunksIds": [
+        394
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Licenses\\Licenses.txt",
+      "FileSize": 16174
+    },
+    {
+      "ChunksIds": [
+        386
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Certificates\\game.bin",
+      "FileSize": 493993
+    },
+    {
+      "ChunksIds": [
+        395
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\cs_cz.cfg",
+      "FileSize": 6747
+    },
+    {
+      "ChunksIds": [
+        397
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\de_de.cfg",
+      "FileSize": 6593
+    },
+    {
+      "ChunksIds": [
+        396
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\es_ar.cfg",
+      "FileSize": 6685
+    },
+    {
+      "ChunksIds": [
+        398
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\es_es.cfg",
+      "FileSize": 6735
+    },
+    {
+      "ChunksIds": [
+        399
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\en_us.cfg",
+      "FileSize": 6093
+    },
+    {
+      "ChunksIds": [
+        400
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\it_it.cfg",
+      "FileSize": 6343
+    },
+    {
+      "ChunksIds": [
+        401
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\ja_ja.cfg",
+      "FileSize": 7799
+    },
+    {
+      "ChunksIds": [
+        402
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\ko_kr.cfg",
+      "FileSize": 6985
+    },
+    {
+      "ChunksIds": [
+        403
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\pl_pl.cfg",
+      "FileSize": 6778
+    },
+    {
+      "ChunksIds": [
+        404
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\pt_br.cfg",
+      "FileSize": 6592
+    },
+    {
+      "ChunksIds": [
+        405
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\fr_fr.cfg",
+      "FileSize": 6761
+    },
+    {
+      "ChunksIds": [
+        407
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\nl_nl.cfg",
+      "FileSize": 6342
+    },
+    {
+      "ChunksIds": [
+        406
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\ru_ru.cfg",
+      "FileSize": 8826
+    },
+    {
+      "ChunksIds": [
+        408
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\th_th.cfg",
+      "FileSize": 11003
+    },
+    {
+      "ChunksIds": [
+        409
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\tr_tr.cfg",
+      "FileSize": 6236
+    },
+    {
+      "ChunksIds": [
+        410
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\zh_tw.cfg",
+      "FileSize": 5682
+    },
+    {
+      "ChunksIds": [
+        411
+      ],
+      "File": "FortniteGame\\Binaries\\Win64\\EasyAntiCheat\\Localization\\zh_cn.cfg",
+      "FileSize": 5699
+    },
+    {
+      "ChunksIds": [
+        414
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_100_percent.pak",
+      "FileSize": 279905
+    },
+    {
+      "ChunksIds": [
+        413
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_200_percent.pak",
+      "FileSize": 386884
+    },
+    {
+      "ChunksIds": [
+        416
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_extensions.pak",
+      "FileSize": 3565138
+    },
+    {
+      "ChunksIds": [
+        412
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef.pak",
+      "FileSize": 6003861
+    },
+    {
+      "ChunksIds": [
+        418
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+      "FileSize": 123792
+    },
+    {
+      "ChunksIds": [
+        417
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\devtools_resources.pak",
+      "FileSize": 5183550
+    },
+    {
+      "ChunksIds": [
+        415
+      ],
+      "File": "FortniteGame\\Binaries\\ThirdParty\\Vivox\\Win64\\vivoxsdk_x64.dll",
+      "FileSize": 5003664
+    },
+    {
+      "ChunksIds": [
+        420
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+      "FileSize": 55184
+    },
+    {
+      "ChunksIds": [
+        419
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll",
+      "FileSize": 1050000
+    },
+    {
+      "ChunksIds": [
+        421
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll",
+      "FileSize": 271760
+    },
+    {
+      "ChunksIds": [
+        422
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll",
+      "FileSize": 1225104
+    },
+    {
+      "ChunksIds": [
+        424
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll",
+      "FileSize": 250768
+    },
+    {
+      "ChunksIds": [
+        426
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll",
+      "FileSize": 60816
+    },
+    {
+      "ChunksIds": [
+        423
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll",
+      "FileSize": 3335568
+    },
+    {
+      "ChunksIds": [
+        425
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll",
+      "FileSize": 1605008
+    },
+    {
+      "ChunksIds": [
+        428
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+      "FileSize": 43920
+    },
+    {
+      "ChunksIds": [
+        432
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\Windows\\DirectX\\x64\\WinPixEventRuntime.dll",
+      "FileSize": 34704
+    },
+    {
+      "ChunksIds": [
+        431
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll",
+      "FileSize": 194960
+    },
+    {
+      "ChunksIds": [
+        427
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll",
+      "FileSize": 2112400
+    },
+    {
+      "ChunksIds": [
+        435
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bg.pak",
+      "FileSize": 366595
+    },
+    {
+      "ChunksIds": [
+        433
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+      "FileSize": 1720208
+    },
+    {
+      "ChunksIds": [
+        434
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\am.pak",
+      "FileSize": 317735
+    },
+    {
+      "ChunksIds": [
+        438
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ca.pak",
+      "FileSize": 228122
+    },
+    {
+      "ChunksIds": [
+        439
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\cs.pak",
+      "FileSize": 231572
+    },
+    {
+      "ChunksIds": [
+        437
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ar.pak",
+      "FileSize": 314031
+    },
+    {
+      "ChunksIds": [
+        441
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\da.pak",
+      "FileSize": 207739
+    },
+    {
+      "ChunksIds": [
+        440
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bn.pak",
+      "FileSize": 478939
+    },
+    {
+      "ChunksIds": [
+        442
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\de.pak",
+      "FileSize": 226211
+    },
+    {
+      "ChunksIds": [
+        443
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\el.pak",
+      "FileSize": 402687
+    },
+    {
+      "ChunksIds": [
+        445
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-US.pak",
+      "FileSize": 186991
+    },
+    {
+      "ChunksIds": [
+        444
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-GB.pak",
+      "FileSize": 186958
+    },
+    {
+      "ChunksIds": [
+        446
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es-419.pak",
+      "FileSize": 224532
+    },
+    {
+      "ChunksIds": [
+        447
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es.pak",
+      "FileSize": 228808
+    },
+    {
+      "ChunksIds": [
+        448
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\et.pak",
+      "FileSize": 202214
+    },
+    {
+      "ChunksIds": [
+        450
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fi.pak",
+      "FileSize": 211980
+    },
+    {
+      "ChunksIds": [
+        449
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fa.pak",
+      "FileSize": 321134
+    },
+    {
+      "ChunksIds": [
+        451
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fil.pak",
+      "FileSize": 232070
+    },
+    {
+      "ChunksIds": [
+        452
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fr.pak",
+      "FileSize": 243625
+    },
+    {
+      "ChunksIds": [
+        455
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hr.pak",
+      "FileSize": 217428
+    },
+    {
+      "ChunksIds": [
+        453
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\gu.pak",
+      "FileSize": 451818
+    },
+    {
+      "ChunksIds": [
+        454
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\he.pak",
+      "FileSize": 265463
+    },
+    {
+      "ChunksIds": [
+        456
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hu.pak",
+      "FileSize": 239083
+    },
+    {
+      "ChunksIds": [
+        459
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\id.pak",
+      "FileSize": 201977
+    },
+    {
+      "ChunksIds": [
+        458
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\it.pak",
+      "FileSize": 220397
+    },
+    {
+      "ChunksIds": [
+        457
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hi.pak",
+      "FileSize": 460810
+    },
+    {
+      "ChunksIds": [
+        460
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ja.pak",
+      "FileSize": 270807
+    },
+    {
+      "ChunksIds": [
+        462
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ko.pak",
+      "FileSize": 230850
+    },
+    {
+      "ChunksIds": [
+        463
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lv.pak",
+      "FileSize": 234204
+    },
+    {
+      "ChunksIds": [
+        464
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lt.pak",
+      "FileSize": 234416
+    },
+    {
+      "ChunksIds": [
+        461
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\kn.pak",
+      "FileSize": 519415
+    },
+    {
+      "ChunksIds": [
+        466
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nb.pak",
+      "FileSize": 205047
+    },
+    {
+      "ChunksIds": [
+        465
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ml.pak",
+      "FileSize": 567612
+    },
+    {
+      "ChunksIds": [
+        468
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ms.pak",
+      "FileSize": 208619
+    },
+    {
+      "ChunksIds": [
+        470
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pl.pak",
+      "FileSize": 225555
+    },
+    {
+      "ChunksIds": [
+        469
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nl.pak",
+      "FileSize": 215699
+    },
+    {
+      "ChunksIds": [
+        471
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-BR.pak",
+      "FileSize": 221133
+    },
+    {
+      "ChunksIds": [
+        472
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\mr.pak",
+      "FileSize": 456368
+    },
+    {
+      "ChunksIds": [
+        473
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ro.pak",
+      "FileSize": 229091
+    },
+    {
+      "ChunksIds": [
+        474
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ru.pak",
+      "FileSize": 351003
+    },
+    {
+      "ChunksIds": [
+        476
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sk.pak",
+      "FileSize": 237218
+    },
+    {
+      "ChunksIds": [
+        475
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-PT.pak",
+      "FileSize": 223472
+    },
+    {
+      "ChunksIds": [
+        477
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sl.pak",
+      "FileSize": 217919
+    },
+    {
+      "ChunksIds": [
+        479
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sv.pak",
+      "FileSize": 206145
+    },
+    {
+      "ChunksIds": [
+        480
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sw.pak",
+      "FileSize": 209319
+    },
+    {
+      "ChunksIds": [
+        478
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sr.pak",
+      "FileSize": 341731
+    },
+    {
+      "ChunksIds": [
+        482
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\tr.pak",
+      "FileSize": 221774
+    },
+    {
+      "ChunksIds": [
+        481
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\te.pak",
+      "FileSize": 503299
+    },
+    {
+      "ChunksIds": [
+        484
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\uk.pak",
+      "FileSize": 358245
+    },
+    {
+      "ChunksIds": [
+        483
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ta.pak",
+      "FileSize": 527387
+    },
+    {
+      "ChunksIds": [
+        485
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-CN.pak",
+      "FileSize": 190714
+    },
+    {
+      "ChunksIds": [
+        486
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\vi.pak",
+      "FileSize": 254300
+    },
+    {
+      "ChunksIds": [
+        375
+      ],
+      "File": "Engine\\Programs\\CrashReportClient\\Content\\Paks\\CrashReportClient.pak",
+      "FileSize": 28923702
+    },
+    {
+      "ChunksIds": [
+        487
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\th.pak",
+      "FileSize": 438108
+    },
+    {
+      "ChunksIds": [
+        488
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-TW.pak",
+      "FileSize": 192079
+    },
+    {
+      "ChunksIds": [
+        383,
+        496
+      ],
+      "File": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libcef.dll",
+      "FileSize": 98281360
+    },
+    {
+      "ChunksIds": [
+        158,
+        173,
+        194,
+        209,
+        233,
+        282,
+        307,
+        333,
+        348,
+        430,
+        495,
+        507,
+        517,
+        529,
+        537,
+        549,
+        561,
+        574,
+        582,
+        591,
+        605,
+        615,
+        627,
+        637,
+        647,
+        657,
+        667,
+        677,
+        686,
+        696,
+        708,
+        716
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1_s1-WindowsClient.pak",
+      "FileSize": 2122098916
+    },
+    {
+      "ChunksIds": [
+        136,
+        147,
+        170,
+        186,
+        204,
+        229,
+        283,
+        303,
+        321,
+        347,
+        429,
+        499,
+        504,
+        514,
+        524,
+        534,
+        543,
+        553,
+        564,
+        571,
+        579,
+        587,
+        597,
+        609,
+        619,
+        629,
+        643,
+        654,
+        663,
+        673,
+        684,
+        697,
+        706,
+        715,
+        726,
+        736,
+        745,
+        754,
+        763,
+        772,
+        781,
+        784
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s7-WindowsClient.pak",
+      "FileSize": 2803167448
+    },
+    {
+      "ChunksIds": [
+        132,
+        146,
+        168,
+        180,
+        198,
+        211,
+        271,
+        286,
+        310,
+        344,
+        436,
+        498,
+        509,
+        521,
+        531,
+        542,
+        552,
+        560,
+        568,
+        578,
+        590,
+        601,
+        613,
+        623,
+        631,
+        639,
+        648,
+        658,
+        668,
+        681,
+        691,
+        698,
+        707,
+        718,
+        727,
+        735,
+        744,
+        753,
+        759,
+        768,
+        776,
+        787,
+        796,
+        805,
+        815,
+        823,
+        830,
+        833,
+        836,
+        839,
+        844,
+        847,
+        851,
+        854,
+        858,
+        859,
+        865,
+        868,
+        874,
+        878,
+        886,
+        887,
+        890,
+        896,
+        900,
+        906
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s6-WindowsClient.pak",
+      "FileSize": 4381344512
+    },
+    {
+      "ChunksIds": [
+        131,
+        143,
+        149,
+        169,
+        190,
+        205,
+        218,
+        279,
+        302,
+        326,
+        366,
+        494,
+        506,
+        513,
+        522,
+        532,
+        544,
+        554,
+        562,
+        572,
+        584,
+        594,
+        604,
+        612,
+        624,
+        634,
+        642,
+        649,
+        659,
+        670,
+        678,
+        688,
+        700,
+        709,
+        720,
+        725,
+        734,
+        742,
+        752,
+        762,
+        769,
+        778,
+        785,
+        793,
+        799,
+        807,
+        814,
+        821,
+        828,
+        837,
+        846,
+        857,
+        866,
+        876,
+        884,
+        894,
+        903,
+        911,
+        918,
+        924,
+        931,
+        939,
+        944,
+        953,
+        959
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s5-WindowsClient.pak",
+      "FileSize": 4334114772
+    },
+    {
+      "ChunksIds": [
+        135,
+        156,
+        175,
+        199,
+        215,
+        278,
+        299,
+        327,
+        358,
+        490,
+        501,
+        512,
+        520,
+        526,
+        535,
+        545,
+        555,
+        565,
+        575,
+        585,
+        593,
+        602,
+        611,
+        621,
+        630,
+        640,
+        652,
+        664,
+        675,
+        687,
+        695,
+        705,
+        714,
+        724,
+        732,
+        741,
+        749,
+        756,
+        764,
+        773,
+        779,
+        786,
+        792,
+        801,
+        808,
+        817,
+        825,
+        832,
+        841,
+        848,
+        856,
+        867,
+        875,
+        882,
+        891,
+        899,
+        910,
+        915,
+        921,
+        927,
+        934,
+        941,
+        949,
+        956,
+        963
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk1-WindowsClient.pak",
+      "FileSize": 4315558242
+    },
+    {
+      "ChunksIds": [
+        115,
+        145,
+        159,
+        177,
+        193,
+        203,
+        214,
+        275,
+        295,
+        320,
+        354,
+        467,
+        497,
+        508,
+        518,
+        527,
+        539,
+        547,
+        556,
+        566,
+        576,
+        586,
+        596,
+        599,
+        607,
+        617,
+        625,
+        636,
+        645,
+        655,
+        665,
+        674,
+        683,
+        693,
+        704,
+        717,
+        729,
+        739,
+        750,
+        760,
+        770,
+        777,
+        789,
+        794,
+        802,
+        809,
+        816,
+        824,
+        834,
+        845,
+        855,
+        863,
+        872,
+        881,
+        892,
+        902,
+        909,
+        917,
+        925,
+        933,
+        938,
+        946,
+        950,
+        957,
+        964
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s1-WindowsClient.pak",
+      "FileSize": 4334993593
+    },
+    {
+      "ChunksIds": [
+        128,
+        148,
+        167,
+        178,
+        200,
+        216,
+        274,
+        293,
+        319,
+        351,
+        489,
+        500,
+        510,
+        519,
+        530,
+        540,
+        550,
+        559,
+        570,
+        580,
+        588,
+        598,
+        608,
+        618,
+        626,
+        635,
+        646,
+        656,
+        666,
+        676,
+        685,
+        694,
+        701,
+        711,
+        721,
+        730,
+        737,
+        746,
+        755,
+        765,
+        774,
+        783,
+        795,
+        804,
+        812,
+        822,
+        831,
+        843,
+        853,
+        864,
+        873,
+        885,
+        895,
+        904,
+        907,
+        913,
+        919,
+        926,
+        932,
+        940,
+        947,
+        952,
+        960,
+        966,
+        969
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s4-WindowsClient.pak",
+      "FileSize": 4319148370
+    },
+    {
+      "ChunksIds": [
+        122,
+        155,
+        176,
+        197,
+        212,
+        272,
+        297,
+        323,
+        362,
+        492,
+        505,
+        516,
+        525,
+        538,
+        546,
+        557,
+        567,
+        577,
+        589,
+        600,
+        610,
+        620,
+        632,
+        641,
+        653,
+        662,
+        671,
+        680,
+        690,
+        702,
+        712,
+        722,
+        731,
+        740,
+        748,
+        757,
+        766,
+        775,
+        788,
+        797,
+        806,
+        813,
+        820,
+        829,
+        840,
+        850,
+        862,
+        870,
+        880,
+        889,
+        898,
+        908,
+        916,
+        923,
+        930,
+        937,
+        945,
+        951,
+        958,
+        965,
+        970,
+        973,
+        978,
+        981,
+        984
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s3-WindowsClient.pak",
+      "FileSize": 4303555536
+    },
+    {
+      "ChunksIds": [
+        123,
+        154,
+        172,
+        195,
+        210,
+        276,
+        298,
+        325,
+        359,
+        491,
+        503,
+        515,
+        528,
+        536,
+        548,
+        558,
+        569,
+        581,
+        592,
+        606,
+        616,
+        628,
+        638,
+        650,
+        661,
+        672,
+        682,
+        692,
+        703,
+        713,
+        723,
+        733,
+        743,
+        751,
+        761,
+        771,
+        782,
+        791,
+        800,
+        810,
+        818,
+        827,
+        838,
+        849,
+        861,
+        871,
+        879,
+        888,
+        901,
+        912,
+        920,
+        928,
+        935,
+        942,
+        948,
+        955,
+        962,
+        968,
+        972,
+        974,
+        977,
+        980,
+        983,
+        985,
+        987
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0_s2-WindowsClient.pak",
+      "FileSize": 4303646770
+    },
+    {
+      "ChunksIds": [
+        116,
+        166,
+        196,
+        217,
+        273,
+        284,
+        308,
+        337,
+        378,
+        493,
+        502,
+        511,
+        523,
+        533,
+        541,
+        551,
+        563,
+        573,
+        583,
+        595,
+        603,
+        614,
+        622,
+        633,
+        644,
+        651,
+        660,
+        669,
+        679,
+        689,
+        699,
+        710,
+        719,
+        728,
+        738,
+        747,
+        758,
+        767,
+        780,
+        790,
+        798,
+        803,
+        811,
+        819,
+        826,
+        835,
+        842,
+        852,
+        860,
+        869,
+        877,
+        883,
+        893,
+        897,
+        905,
+        914,
+        922,
+        929,
+        936,
+        943,
+        954,
+        961,
+        967,
+        971,
+        975,
+        976,
+        979,
+        982,
+        986,
+        988,
+        989,
+        990,
+        991,
+        992
+      ],
+      "File": "FortniteGame\\Content\\Paks\\pakchunk0-WindowsClient.pak",
+      "FileSize": 4911708432
+    }
+  ],
+  "Size": 43325065599
+}
