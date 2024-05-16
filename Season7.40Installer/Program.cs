@@ -155,15 +155,36 @@ namespace FNINSTALLER
             Console.Clear();
             Console.Title = "Season7.40 Installer";
             Console.Write("\n\nFortnite Season Installer made by Ghost143\n\n");
-            Console.Write("\n\n------------------------------------------\n\n");
             Console.Write("\n\nOriginal made by Ender & blk (EASYINSTALLER V2)\n\n");
-            Console.Write("\n\n------------------------------------------\n\n");
-            Console.Write("\n\nVersion: 7.40 (FN)\n\n");
-            Console.Write("\n\n------------------------------------------\n\n");
-
 
             var targetVersion = "7.40"; // Version eg. 7.40
-            var manifest = await GetManifestAsync(targetVersion);
+
+            while (true)
+            {
+                Console.WriteLine("1. Install Fortnite 7.40");
+                Console.WriteLine("0. Exit...");
+
+                Console.Write("Please select an option: ");
+                var choice = Console.ReadLine();
+
+                switch (choice)
+                {
+                    case "1":
+                        await Proceed(targetVersion);
+                        return;
+                    case "0":
+                        Console.WriteLine("The program is terminated.");
+                        return;
+                    default:
+                        Console.WriteLine("Invalid option. Please try again.");
+                        break;
+                }
+            }
+        }
+
+        static async Task Proceed(string version)
+        {
+            var manifest = await GetManifestAsync(version);
 
             Console.Write("Please enter a game folder location: ");
             var targetPath = Console.ReadLine();
@@ -171,11 +192,11 @@ namespace FNINSTALLER
 
             if (string.IsNullOrEmpty(targetPath))
             {
-                await Main(args);
+                Console.WriteLine("Invalid input. The program is terminated.");
                 return;
             }
 
-            await Download(manifest, targetVersion, targetPath);
+            await Download(manifest, version, targetPath);
         }
     }
 }
