@@ -7,7 +7,7 @@ using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace FNINSTALLER
+namespace Season7._40Installer
 {
     class Program
     {
@@ -153,15 +153,15 @@ namespace FNINSTALLER
         static async Task Main(string[] args)
         {
             Console.Clear();
-            Console.Title = "Season7.40 Installer";
+            Console.Title = "Season8.51 Installer";
             Console.Write("\n\nFortnite Season Installer made by Ghost143\n\n");
             Console.Write("\n\nOriginal made by Ender & blk (EASYINSTALLER V2)\n\n");
 
-            var targetVersion = "7.40"; // Version eg. 7.40
+            var targetVersion = "8.51"; // Version eg. 7.40
 
             while (true)
             {
-                Console.WriteLine("1. Install Fortnite 7.40");
+                Console.WriteLine("1. Install Fortnite 8.51");
                 Console.WriteLine("0. Exit...");
 
                 Console.Write("Please select an option: ");
